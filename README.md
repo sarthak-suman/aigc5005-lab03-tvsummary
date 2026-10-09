@@ -63,8 +63,7 @@ add an instance to the report builder's list.
 
 ## Known limitations
 Only page 0 is fetched. Live ratings can change, so a fresh output may differ from
-the supplied Lab 02 summary. The initially committed output is that original
-successful Lab 02 run; regenerate it with the package before submission.
+the supplied Lab 02 summary. The committed output was regenerated successfully with this package.
 The program needs internet access and rejects responses with fewer than 50 records.
 Run from the repository root because the output path is relative to that folder.
 
